@@ -20,6 +20,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@inlang/cli": "^1.10.0",
 		"@inlang/sdk-js": "^0.11.8"
 	}
 }
