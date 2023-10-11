@@ -1,6 +1,12 @@
 {
 	"$schema": "https://inlang.com/schema/project-settings",
 	"sourceLanguageTag": "en",
-	"languageTags": ["en", "hi", "zh"],
-	"modules": []
+	"languageTags": [
+		"en",
+		"hi",
+		"zh"
+	],
+	"modules": [
+		"https://cdn.jsdelivr.net/npm/@inlang/plugin-json@latest/dist/index.js"
+	]
 }
